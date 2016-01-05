@@ -1,0 +1,20 @@
+{
+  "menu" : [
+    { 
+      "title" : "Home",
+      "url" : ""
+    },
+    { 
+      "title" : "Profile",
+      "url" : "profile"
+    },
+    { 
+      "title" : "Hobby",
+      "url" : "hobby"
+    },
+    { 
+      "title" : "Example",
+      "url" : "example"
+    }
+  ]
+}
